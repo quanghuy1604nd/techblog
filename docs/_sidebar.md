@@ -1,5 +1,5 @@
 - **Design Pattern**
     - [Command Pattern](./posts/design-pattern/command-pattern.md)
-- **Argorithms**
+- **Algorithms**
 - **Java**
 - **Kubernetes**

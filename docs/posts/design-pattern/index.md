@@ -1,0 +1,11 @@
+# Giới thiệu về Design Patterns (Mẫu thiết kế)
+## 1.1 Giới thiệu
+- Vào những năm cuối của những năm 70, một kiến trúc sư tên là Christopher Alexander bắt đầu khởi xướng về các mẫu thiết kế. Các nghiên cứu của Alexander tập trung vào các mẫu giải pháp cụ thể trong những ngữ cảnh cụ thể.
+- Christopher Alexander là một kĩ sư và là một kiến trúc sư, các mẫu của anh liên quan đến các kiến trúc xây dựng, nhưng các công trình do ông thực hiện được truyền cảm hứng từ cộng đồng hướng đối tượng (OO community), và một số nhà đổi mới đã bắt đầu phát triển các mô hình cho thiết kế phần mềm. Kent Beck và Ward Cunningham là một trong số ít người đã trình bày bộ mô hình thiết kế cho Smalltalk tại hội nghị OOPLSA. James Copilen là một người khác tích cực thúc đẩy các nguyên lý của mô hình.
+- Không lâu sau đó, cộng đồng mô hình bắt đầu lớn mạnh tại OOPLSA, và nó tạo ra môi trường cho các thành viên chia sẻ những đổi mới và ý tưởng về các mẫu (patterns). Một diễn đàn về phong trào của các mẫu quan trọng khác là Hillside Group, được thành lập bởi Kent Beck và Grady Booch.
+- Đây chính là bản chất của mô hình thiết kế - sự chắt lọc chuyên môn từ một cộng đồng năng động và mạnh mẽ. Đây chính là hình thức huy động nguồn lực từ đám đông
+ở mức độ tốt nhất. Cộng đồng mẫu thiết kế đã phát triển trong hơn một thập kỷ kể từ công trình GoF ban đầu rất lớn mạnh và năng động. Grady Booch và Celso Gonzalez đã thu thập mọi mẫu thiết kế mà họ có thể tìm thấy trong ngành. Cho đến nay, họ đã có hơn 2.000 mẫu thiết kế.
+Khóa học này tập trung vào các Mẫu Thiết kế. 
+- Trong khóa học này, chúng ta sẽ đi tìm hiểu những mẫu thiết kế hữu ích và nổi tiếng nhất. Trong bài học này, trước tiên chúng ta sẽ tìm hiểu các Mẫu Thiết kế thực sự là gì. Công dụng của chúng là gì? Tại sao chúng ta thực sự nên sử dụng chúng và cáchsử dụng chúng?
+- Sau đó, chúng ta cũng sẽ tìm hiểu cách các mẫu được tổ chức và phân loại thành các nhóm khác nhau theo hành vi và cấu trúc của chúng.
+- Trong các bài học tiếp theo, chúng ta sẽ thảo luận về từng mẫu thiết kế khác nhau. Chúng ta sẽ đi sâu và phân tích từng mẫu thiết kế, đồng thời xem cách triển khai chúng trong Java.
